@@ -1,0 +1,18 @@
+{
+	"name":"Elon Musk",
+	"description":"Making inter planetory travel possible and pushing the boundaries for mankind.",
+	"image":"https://coffee-large-tuna-874.mypinata.cloud/ipfs/QmaCo6UAJaTpjTJDtoDYRYUX8KFfQw1tUG2HGFtGsUFG9q?_gl=1*1s2tb9i*_ga*MTY1OTA4MTU3MC4xNzAwODk3MTg0*_ga_5RMPXG14TE*MTcwMDg5NzE4NC4xLjEuMTcwMDg5NzUxOC4zNi4wLjA.",
+
+	"attributes":
+	[
+		{
+			"trait_type":"Zodiac","value":"Cancer"
+		},
+		{
+			"trait_type":"Height","value":"6'1"
+		},
+		{	"trait_type":"Personality Type","value":"INTJ"
+		}
+	]
+}
+
